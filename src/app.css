@@ -1,0 +1,7 @@
+html,
+body {
+    height: 100%;
+    font-family: 'Droid Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    background: #FFF;
+}
